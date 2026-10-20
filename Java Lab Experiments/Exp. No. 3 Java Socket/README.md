@@ -86,6 +86,3 @@ Server says: Hello Client!
    java Client
    ``` -->
 
-## Author
-
-Kovid Gupta
