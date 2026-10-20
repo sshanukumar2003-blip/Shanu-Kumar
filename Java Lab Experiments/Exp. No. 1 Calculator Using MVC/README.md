@@ -84,10 +84,3 @@ javac Main.java Model.java View.java Controller.java
 java Main
 ``` -->
 
-## Author
-
-Abhay Dadhich
-
-## License
-
-This project is intended for educational and academic purposes.
